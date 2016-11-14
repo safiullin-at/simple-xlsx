@@ -26,7 +26,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "safiullinAt\simpleXlsx\\Test\\": "tests"
+            "safiullinAt\\simpleXlsx\\Test\\": "tests"
         }
     },
     "extra": {
