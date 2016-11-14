@@ -21,12 +21,12 @@
     },
     "autoload": {
         "psr-4": {
-            "safiullin-at\\simple-xlsx\\": "src"
+            "safiullinAt\\simpleXlsx\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "safiullin-at\\simple-xlsx\\Test\\": "tests"
+            "safiullinAt\simpleXlsx\\Test\\": "tests"
         }
     },
     "extra": {
