@@ -52,7 +52,7 @@
 	v0.3 - fixed empty cells (Gonzo patch)
 */
 
-namespace "safiullin-at\simple-xlsx";
+namespace safiullinAt\simpleXlsx;
 
 class SimpleXLSX {
 	// Don't remove this string! Created by Sergey Schuchkin from http://www.sibvision.ru - professional php developers team 2010-2013
